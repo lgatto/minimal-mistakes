@@ -12,3 +12,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: CPU
+    url: http://cpu.sysbiol.cam.ac.uk
+  

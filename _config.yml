@@ -18,7 +18,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : laurentgatto
   discourse:
@@ -69,7 +69,7 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
+analytics                : UA-62476426-1
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
@@ -105,9 +105,11 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  dissemin: 6231/laurent-gatto  
-
-
+  dissemin         : 6231/laurent-gatto  
+  orcid            : 0000-0002-1520-2268
+  scholar          : k5DrB74AAAAJ
+  impactstory      : u/0000-0002-1520-2268
+  
 # Reading Files
 include:
   - .htaccess
@@ -185,7 +187,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-gist
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
