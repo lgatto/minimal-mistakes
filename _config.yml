@@ -79,7 +79,7 @@ analytics                : # UA-62476426-1
 author:
   name             : "Laurent Gatto"
   avatar           : /images/lgatto2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational biology, bioinformatics, emacs, open source/data/research. University of Cambridge, UK."
+  bio              : "Open science, reproducible research, data champion, computational biology, proteomics, more omics, emacs, a lot of R, running, swimming and parenting."
   location         : "Cambridge, UK"
   email            :
   uri              :
