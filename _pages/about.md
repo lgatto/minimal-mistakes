@@ -4,8 +4,8 @@ title: About
 tags: [about]
 modified: 2015-05-01
 comments: false
-image:
-  feature: slide-code.png
+header:
+  image: /assets/images/slide-code.png  
 ---
 
 {% include _toc.html %}
