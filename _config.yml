@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "/home"
+title                    : ""
 title_separator          : " | "
 name                     : "Laurent Gatto"
 description              : ""
